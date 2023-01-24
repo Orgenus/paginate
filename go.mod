@@ -1,4 +1,4 @@
-module github.com/morkid/paginate
+module github.com/orgenus/paginate
 
 go 1.15
 
